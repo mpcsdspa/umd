@@ -1,0 +1,138 @@
+.:
+total 392
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ./
+drwxr-xr-x   55 kirby    sci          4096 Mar 22 14:57 ../
+-rwxr-xr-x    1 kirby    sci         11600 Mar 22 14:43 cguide.htm*
+drwxr-xr-x    2 kirby    sci           125 Mar 22 14:43 Chapter10/
+drwxr-xr-x    2 kirby    sci          4096 Mar 22 14:43 Chapter2/
+drwxr-xr-x    2 kirby    sci          4096 Mar 22 14:43 Chapter3/
+drwxr-xr-x    2 kirby    sci          4096 Mar 22 14:43 Chapter4/
+drwxr-xr-x    2 kirby    sci           120 Mar 22 14:43 Chapter5/
+drwxr-xr-x    2 kirby    sci            77 Mar 22 14:43 Chapter6/
+drwxr-xr-x    2 kirby    sci            99 Mar 22 14:43 Chapter7/
+drwxr-xr-x    2 kirby    sci           118 Mar 22 14:43 Chapter8/
+drwxr-xr-x    2 kirby    sci           121 Mar 22 14:43 Chapter9/
+-rwxr-xr-x    1 kirby    sci          5648 Mar 22 14:43 code.htm*
+-rw-r--r--    1 kirby    sci             0 Mar 22 15:05 codenew.out
+-rwxr-xr-x    1 kirby    sci          1180 Mar 22 14:43 Makefile*
+-rwxr-xr-x    1 kirby    sci          4418 Mar 22 14:43 SCchapter10.cpp*
+-rwxr-xr-x    1 kirby    sci           903 Mar 22 14:43 SCchapter10.h*
+-rwxr-xr-x    1 kirby    sci          3057 Mar 22 14:43 SCchapter2.cpp*
+-rwxr-xr-x    1 kirby    sci           819 Mar 22 14:43 SCchapter2.h*
+-rwxr-xr-x    1 kirby    sci          7805 Mar 22 14:43 SCchapter3.cpp*
+-rwxr-xr-x    1 kirby    sci          1865 Mar 22 14:43 SCchapter3.h*
+-rwxr-xr-x    1 kirby    sci         10483 Mar 22 14:43 SCchapter4.cpp*
+-rwxr-xr-x    1 kirby    sci          2122 Mar 22 14:43 SCchapter4.h*
+-rwxr-xr-x    1 kirby    sci         15962 Mar 22 14:43 SCchapter5.cpp*
+-rwxr-xr-x    1 kirby    sci          2500 Mar 22 14:43 SCchapter5.h*
+-rwxr-xr-x    1 kirby    sci          7188 Mar 22 14:43 SCchapter6.cpp*
+-rwxr-xr-x    1 kirby    sci          1304 Mar 22 14:43 SCchapter6.h*
+-rwxr-xr-x    1 kirby    sci         13356 Mar 22 14:43 SCchapter7.cpp*
+-rwxr-xr-x    1 kirby    sci          1746 Mar 22 14:43 SCchapter7.h*
+-rwxr-xr-x    1 kirby    sci          9215 Mar 22 14:43 SCchapter8.cpp*
+-rwxr-xr-x    1 kirby    sci          2570 Mar 22 14:43 SCchapter8.h*
+-rwxr-xr-x    1 kirby    sci          5786 Mar 22 14:43 SCchapter9.cpp*
+-rwxr-xr-x    1 kirby    sci           946 Mar 22 14:43 SCchapter9.h*
+-rwxr-xr-x    1 kirby    sci         14626 Mar 22 14:43 SCmathlib.cpp*
+-rwxr-xr-x    1 kirby    sci          4885 Mar 22 14:43 SCmathlib.h*
+
+./Chapter10:
+total 84
+drwxr-xr-x    2 kirby    sci           125 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci           534 Mar 22 14:43 chapter10c0.cpp*
+-rwxr-xr-x    1 kirby    sci          4465 Mar 22 14:43 chapter10c1P.cpp*
+-rwxr-xr-x    1 kirby    sci           578 Mar 22 14:43 chapter10c2.cpp*
+-rwxr-xr-x    1 kirby    sci          4170 Mar 22 14:43 chapter10c3P.cpp*
+-rwxr-xr-x    1 kirby    sci          5137 Mar 22 14:43 Chapter10Overview.html*
+
+./Chapter2:
+total 216
+drwxr-xr-x    2 kirby    sci          4096 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci            38 Mar 22 14:43 chapter2c0.cpp*
+-rwxr-xr-x    1 kirby    sci           189 Mar 22 14:43 chapter2c10.cpp*
+-rwxr-xr-x    1 kirby    sci           726 Mar 22 14:43 chapter2c11P.cpp*
+-rwxr-xr-x    1 kirby    sci            95 Mar 22 14:43 chapter2c1.cpp*
+-rwxr-xr-x    1 kirby    sci           226 Mar 22 14:43 chapter2c2.cpp*
+-rwxr-xr-x    1 kirby    sci           159 Mar 22 14:43 chapter2c3.cpp*
+-rwxr-xr-x    1 kirby    sci           161 Mar 22 14:43 chapter2c4.cpp*
+-rwxr-xr-x    1 kirby    sci           269 Mar 22 14:43 chapter2c5.cpp*
+-rwxr-xr-x    1 kirby    sci           338 Mar 22 14:43 chapter2c6.cpp*
+-rwxr-xr-x    1 kirby    sci           838 Mar 22 14:43 chapter2c7.cpp*
+-rwxr-xr-x    1 kirby    sci           174 Mar 22 14:43 chapter2c8P.cpp*
+-rwxr-xr-x    1 kirby    sci           348 Mar 22 14:43 chapter2c9P.cpp*
+-rwxr-xr-x    1 kirby    sci          6877 Mar 22 14:43 Chapter2Overview.html*
+
+./Chapter3:
+total 152
+drwxr-xr-x    2 kirby    sci          4096 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci           222 Mar 22 14:43 chapter3c0.cpp*
+-rwxr-xr-x    1 kirby    sci           372 Mar 22 14:43 chapter3c1.cpp*
+-rwxr-xr-x    1 kirby    sci           430 Mar 22 14:43 chapter3c2.cpp*
+-rwxr-xr-x    1 kirby    sci          1100 Mar 22 14:43 chapter3c3.cpp*
+-rwxr-xr-x    1 kirby    sci           956 Mar 22 14:43 chapter3c4.cpp*
+-rwxr-xr-x    1 kirby    sci          1246 Mar 22 14:43 chapter3c5.cpp*
+-rwxr-xr-x    1 kirby    sci          1009 Mar 22 14:43 chapter3c6.cpp*
+-rwxr-xr-x    1 kirby    sci           733 Mar 22 14:43 chapter3c7P.cpp*
+-rwxr-xr-x    1 kirby    sci          7371 Mar 22 14:43 Chapter3Overview.html*
+
+./Chapter4:
+total 120
+drwxr-xr-x    2 kirby    sci          4096 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci           757 Mar 22 14:43 chapter4c0.cpp*
+-rwxr-xr-x    1 kirby    sci          1104 Mar 22 14:43 chapter4c1.cpp*
+-rwxr-xr-x    1 kirby    sci           767 Mar 22 14:43 chapter4c2.cpp*
+-rwxr-xr-x    1 kirby    sci           470 Mar 22 14:43 chapter4c3.cpp*
+-rwxr-xr-x    1 kirby    sci          1158 Mar 22 14:43 chapter4c4.cpp*
+-rwxr-xr-x    1 kirby    sci           844 Mar 22 14:43 chapter4c5P.cpp*
+-rwxr-xr-x    1 kirby    sci          8299 Mar 22 14:43 Chapter4Overview.html*
+
+./Chapter5:
+total 84
+drwxr-xr-x    2 kirby    sci           120 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci          1271 Mar 22 14:43 chapter5c0.cpp*
+-rwxr-xr-x    1 kirby    sci          1322 Mar 22 14:43 chapter5c1.cpp*
+-rwxr-xr-x    1 kirby    sci          2009 Mar 22 14:43 chapter5c2P.cpp*
+-rwxr-xr-x    1 kirby    sci          2062 Mar 22 14:43 chapter5c3P.cpp*
+-rwxr-xr-x    1 kirby    sci          6423 Mar 22 14:43 Chapter5Overview.html*
+
+./Chapter6:
+total 52
+drwxr-xr-x    2 kirby    sci            77 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci           497 Mar 22 14:43 chapter6c0.cpp*
+-rwxr-xr-x    1 kirby    sci           716 Mar 22 14:43 chapter6c1P.cpp*
+-rwxr-xr-x    1 kirby    sci          4604 Mar 22 14:43 Chapter6Overview.html*
+
+./Chapter7:
+total 68
+drwxr-xr-x    2 kirby    sci            99 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci           872 Mar 22 14:43 chapter7c0.cpp*
+-rwxr-xr-x    1 kirby    sci          1049 Mar 22 14:43 chapter7c1P.cpp*
+-rwxr-xr-x    1 kirby    sci           749 Mar 22 14:43 chapter7c2P.cpp*
+-rwxr-xr-x    1 kirby    sci          6269 Mar 22 14:43 Chapter7Overview.html*
+
+./Chapter8:
+total 84
+drwxr-xr-x    2 kirby    sci           118 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci           862 Mar 22 14:43 chapter8c0.cpp*
+-rwxr-xr-x    1 kirby    sci          1753 Mar 22 14:43 chapter8c1.cpp*
+-rwxr-xr-x    1 kirby    sci          1103 Mar 22 14:43 chapter8c2.cpp*
+-rwxr-xr-x    1 kirby    sci           971 Mar 22 14:43 chapter8c3.cpp*
+-rwxr-xr-x    1 kirby    sci          5946 Mar 22 14:43 Chapter8Overview.html*
+
+./Chapter9:
+total 84
+drwxr-xr-x    2 kirby    sci           121 Mar 22 14:43 ./
+drwxr-xr-x   11 kirby    sci          4096 Mar 22 15:05 ../
+-rwxr-xr-x    1 kirby    sci          3005 Mar 22 14:43 chapter9c0P.cpp*
+-rwxr-xr-x    1 kirby    sci          1779 Mar 22 14:43 chapter9c1.cpp*
+-rwxr-xr-x    1 kirby    sci          3530 Mar 22 14:43 chapter9c2P.cpp*
+-rwxr-xr-x    1 kirby    sci          4017 Mar 22 14:43 chapter9c3P.cpp*
+-rwxr-xr-x    1 kirby    sci          5178 Mar 22 14:43 Chapter9Overview.html*
